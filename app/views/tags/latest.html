@@ -1,0 +1,33 @@
+#{extends 'main.html' /}
+#{set title:'Latest' /}
+
+<!--referencing fomantic ui icons library*/ --!>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.8/dist/semantic.min.css">
+<script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.8/dist/semantic.min.js"></script>
+
+<div class="ui inverted segment">
+    <div class="ui five column grid">
+        <div class="column">
+            <p>${_station.title} <i class="big purple map marked alternate icon"></i></p>
+            <p>Lat: ${_station.latitude}<br>Lng: ${_station.longitude}</p>
+        </div>
+        <div class="column">
+            <p>Weather <i class="big red cloud sun icon"></i></p>
+            <p>${_latestReading?.condition}</p>
+        </div>
+        <div class="column">
+            <p>Temperature <i class="big blue temperature low icon"></i></p>
+            <p>${_latestReading?.temp} C<br> ${_latestReading?.fahrenheit} F</p>
+        </div>
+        <div class="column">
+            <p>Wind <i class="big green wind icon"></i></p>
+            <p>${_latestReading?.beaufort} bft<br>${_latestReading?.compassDirection}<br>
+                Feels like<br>${_latestReading?.windChill}</p>
+        </div>
+        <div class="column">
+            <p>Pressure <i class="big orange arrows alternate icon"></i></p>
+            <p>${_latestReading?.pressure} hPa</p>
+        </div>
+    </div>
+</div>

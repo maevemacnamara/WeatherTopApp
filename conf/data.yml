@@ -1,0 +1,52 @@
+Reading(r1):
+  code: 800
+  temp: 0.5
+  windSpeed: 3.5
+  windDirection: 50
+  pressure: 1001
+Reading(r2):
+  code: 600
+  temp: 6.0
+  windSpeed: 2.0
+  windDirection: 200
+  pressure: 1004
+Reading(r3):
+  code: 700
+  temp: 8.0
+  windSpeed: 1.0
+  windDirection: 90
+  pressure: 1000
+Reading(r4):
+  code: 200
+  temp: 0.5
+  windSpeed: 3.5
+  windDirection: 120
+  pressure: 999
+Station(s1):
+  title: Lucan
+  latitude: 53.3572
+  longitude: 6.4498
+  readings:
+    - r1
+    - r2
+Station(s2):
+  title: Leixlip
+  latitude: 53.3638
+  longitude: 6.4900
+  readings:
+    - r3
+    - r4
+Member(m1):
+  firstname: Homer
+  lastname: Simpson
+  email: homer@simpson.com
+  password: secret
+  stations:
+    - s1
+Member(m2):
+  firstname: Marge
+  lastname: Simpson
+  email: marge@simpson.com
+  password: secret
+  stations:
+    - s2

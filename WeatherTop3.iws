@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1366b980-3535-4401-a1b0-480353b54f4b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/errors/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/errors/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/station.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/tags/addreading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/tags/addstation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/tags/latest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/tags/listreadings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/tags/mainpanel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/tags/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/tags/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/tags/welcomemenu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/data.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/dependencies.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cyclone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instrument.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/monitors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/personinstation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/weatherpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/weathervein.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Application.test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BasicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="29hOtW0Th14l6Yd6e5rzixXSTkI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../todolist-todolist-2/todolist-todolist-2.end" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationTest.findWeatherCondition">
+    <configuration name="ApplicationTest.findWeatherCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeatherTop5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="findWeatherCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeatherTop5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTest.findWeatherCondition" />
+        <item itemvalue="JUnit.BasicTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1366b980-3535-4401-a1b0-480353b54f4b" name="Changes" comment="" />
+      <created>1653562065851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653562065851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/controllers/Admin.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
